@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stela-Lucio&theme=dark-smoky&hide_border=falso&fundo=20B2AA&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stela-Lucio&theme=dark-smoky&hide_border=falso&fundo=20B2AA&card_width=800)](https://git.io/streak-stats)
 
 </div>
 
@@ -25,7 +25,29 @@
 
 </div>
 
+<h2 align="left"> Main skills: </h2>
+<img align="left" height="60" width="60" src="Icons_Readme/Excel.png">
+<img align="left" height="60" width="60" src="Icons_Readme/Power_Apps.png">
+<img align="left" height="60" width="60" src="Icons_Readme/Power_BI.png">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2 align="left"> Studying in this moment: </h2>
+
+<div align="left">
+<img align="left" height="60" width="60" src="Icons_Readme/Power_Automate.png">
+<img align="left" height="60" width="60" src="Icons_Readme/Python.png">
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FStela-Lucio&s=40&c=20b2aa&bg=00000000&no=2&ff=digi&tb=Visits%3A&ta=" /></p>
 
 <div>
 
