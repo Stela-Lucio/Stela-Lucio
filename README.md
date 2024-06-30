@@ -13,8 +13,8 @@
 <br> 
 
 <div align="center">
-<a href= "mailto:stela.lucio05@gmail.com"><img align="center" height="40" width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href= "www.linkedin.com/in/stela-lúcio-4849ab289"><img align="center" height="40" width="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"" target="_blank"></a>
+<a href= "mailto:stela.lucio05@gmail.com"><img align="center" height="30" width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href= "www.linkedin.com/in/stela-lúcio-4849ab289"><img align="center" height="30" width="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"" target="_blank"></a>
 
 <br>
 <br>
