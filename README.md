@@ -25,8 +25,6 @@
 
 </div>
 
-## Main Skills:
-
 
 
 <div>
